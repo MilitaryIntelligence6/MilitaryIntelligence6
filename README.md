@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on kuaishou
--    I’m once worked in baidu
+- 🔭 I’m currently working on Tencent-WXG-WechatPay
+-    I’m once worked in kuaishou
 - 🌱 I’m currently learning game develop based on libgdx and android video develop
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
